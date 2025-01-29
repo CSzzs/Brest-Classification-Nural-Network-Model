@@ -61,9 +61,6 @@ The model is evaluated using the following metrics:
 ## Results
 The trained model achieves a high classification accuracy, demonstrating its effectiveness in distinguishing between malignant and benign tumors. The confusion matrix and ROC curve provide insights into model performance.
 
-## Hyperparameter Tuning
-Various hyperparameters such as learning rate, batch size, number of hidden layers, and activation functions are optimized to enhance model performance.
-
 ## Contributing
 Contributions are welcome! If you would like to improve this project, feel free to fork the repository, make enhancements, and submit a pull request.
 
